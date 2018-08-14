@@ -10,7 +10,7 @@ public class Sum {
 		String s1,s2;
 		s1 = scan.next();
 		s2 = scan.next();
-		System.out.println(s1+"'"+s2);
+		System.out.println(s1+","+s2);
 		a = Integer.parseInt(s1);
 		b = Integer.parseInt(s2);
 
